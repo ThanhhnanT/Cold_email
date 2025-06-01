@@ -15,7 +15,8 @@ An AI-powered tool that automatically generates personalized cold emails tailore
 
 ## 🎥 Demo
 
-<img src="https://github.com/ThanhhnanT/Cold_email/blob/main/output.gif" style="width:100%; height:auto;" />
+![Demo Video](./output.gif)
+
 
 
 
