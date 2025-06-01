@@ -1,3 +1,4 @@
 vectorstore/
 __pycache__/
 .idea/
+Secret_key.py
