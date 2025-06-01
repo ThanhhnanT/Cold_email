@@ -1,2 +1,2 @@
-GROQ_COLD_EMAIL = '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'
+GROQ_COLD_EMAIL = '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'
 CTAI = 'https://institute.vinbigdata.org/programs/chuong-trinh-dao-tao-ky-su-ai-vingroup/?fbclid=IwY2xjawKJgN5leHRuA2FlbQIxMABicmlkETFVRHI5OWZCeVllRExDSWlQAR7AxKgqJDI-AOZXJimFOd3YYuFRsr3FK3E7vOzMbculYDAgkrp4U69dgYnDig_aem_rMfjDdS2Fk1t6yCwINQEhA'
