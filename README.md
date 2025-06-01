@@ -15,10 +15,7 @@ An AI-powered tool that automatically generates personalized cold emails tailore
 
 ## 🎥 Demo
 
-<video width="600" controls>
-  <source src="Cold_Email.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=TiRpDsBn7Vg))
 
 ---
 
